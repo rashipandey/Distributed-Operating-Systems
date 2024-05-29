@@ -1,0 +1,6 @@
+
+ Average Hops = 2.2436   HopsTotal = 22956    NumNodes = 100    NumRequests = 100  
+
+ Average Hops = 0.72   HopsTotal = 72    NumNodes = 10    NumRequests = 10  
+
+ Average Hops = 0.65   HopsTotal = 65    NumNodes = 10    NumRequests = 10  
